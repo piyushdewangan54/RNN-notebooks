@@ -13,4 +13,9 @@ In Recurrent Neural networks, the information cycles through a loop to the middl
 
 ![hippo](Fully_connected_Recurrent_Neural_Network.gif)
 
+## Dataset Used 
+
+##### RNN-SineWave
+- Here we havent used any dataset, instead we generated sinwave on y-axis for continuous running x-axis.
+
 
