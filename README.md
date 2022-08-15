@@ -11,4 +11,6 @@ Here, “x” is the input layer, “h” is the hidden layer, and “y” is th
 
 In Recurrent Neural networks, the information cycles through a loop to the middle hidden layer.
 
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
 
