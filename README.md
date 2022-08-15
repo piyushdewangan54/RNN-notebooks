@@ -20,12 +20,13 @@ In Recurrent Neural networks, the information cycles through a loop to the middl
 
 #### RNN-TimeSeries
 - Release: Advance Monthly Sales for Retail and Food Services
-Units: Millions of Dollars, Not Seasonally Adjusted
+  
+  Units: Millions of Dollars, Not Seasonally Adjusted
+  
+  Frequency: Monthly
 
-Frequency: Monthly
+  The value for the most recent month is an advance estimate that is based on data from a subsample of firms from the larger Monthly Retail Trade Survey. The advance     estimate will be superseded in the following months by revised estimates derived from the larger Monthly Retail Trade Survey. The associated series from the Monthly Retail Trade Survey is available [here](https://fred.stlouisfed.org/series/MRTSSM448USN)
 
-The value for the most recent month is an advance estimate that is based on data from a subsample of firms from the larger Monthly Retail Trade Survey. The advance estimate will be superseded in the following months by revised estimates derived from the larger Monthly Retail Trade Survey. The associated series from the Monthly Retail Trade Survey is available [here](https://fred.stlouisfed.org/series/MRTSSM448USN)
-
-Information about the Advance Monthly Retail Sales Survey can be found on the Census [website](https://www.census.gov/retail/marts/about_the_surveys.html)
+  Information about the Advance Monthly Retail Sales Survey can be found on the Census [website](https://www.census.gov/retail/marts/about_the_surveys.html)
 
 
